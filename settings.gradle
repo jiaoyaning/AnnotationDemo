@@ -1,0 +1,2 @@
+include ':app', ':ioc_compiler', ':ioc_annotation'
+rootProject.name='AnnotationDemo'
