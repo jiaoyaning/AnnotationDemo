@@ -6,7 +6,8 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * Created by jiao on 2019/10/29.
+ * @author jiao
+ * @date 2019/10/29
  */
 
 @Retention(RetentionPolicy.CLASS)
